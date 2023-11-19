@@ -38,6 +38,7 @@ GEM
     stringio (3.0.9)
 
 PLATFORMS
+  x86_64-darwin-20
   x86_64-darwin-22
 
 DEPENDENCIES
@@ -46,4 +47,4 @@ DEPENDENCIES
   rspec
 
 BUNDLED WITH
-   2.4.10
+   2.4.7

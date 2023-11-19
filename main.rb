@@ -1,4 +1,4 @@
-require './faraday_sample'
+require './lib/faraday_sample'
 
 # Create a new instance of FaradaySample
 faraday_sample = FaradaySample.new
